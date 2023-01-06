@@ -3,7 +3,9 @@ team: Tigers
 manager: Donald
 
 members:
-- George
 - Linda
 - William
 - David
+
+coach:
+- Grace
