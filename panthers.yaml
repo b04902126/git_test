@@ -7,7 +7,13 @@ members:
 - Stella
 - Anthony
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Freddie
+=======
+
+coach:
+- Teddy
+>>>>>>> add-coach
 =======
 
 coach:

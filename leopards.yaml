@@ -5,9 +5,16 @@ manager: Luke
 members:
 - Linda
 - William
+<<<<<<< HEAD
 - David 
 - Olivia
 - David
 
 coach:
 - Oscar
+=======
+- David
+
+coach:
+- Oscar
+>>>>>>> add-coach
